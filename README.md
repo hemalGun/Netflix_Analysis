@@ -7,7 +7,6 @@ Analyze Netflix's content library and identify trends in content production, gen
 - Python
 - Pandas
 - Matplotlib
-- Seaborn
 
 ## Key Findings
 - Movies dominate the catalog compared to TV Shows, indicating a movie-heavy content strategy.
